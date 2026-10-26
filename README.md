@@ -2,7 +2,6 @@
   Profile README for github.com/Hemanth23534
   Save this file as README.md in a PUBLIC repository named exactly: Hemanth23534
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:7c3aed&height=190&section=header&text=Addagada%20Hemanth&fontSize=44&fontColor=e6edf3&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Enterprise%20Developer&descSize=15&descAlignY=62" alt="Addagada Hemanth banner" width="100%" />
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:7c3aed&height=190&section=header&text=Addagada%20Hemanth&fontSize=44&fontColor=e6edf3&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Enterprise%20Developer&descSize=15&descAlignY=62" alt="Addagada Hemanth banner" width="100%" />
