@@ -5,6 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:7c3aed&height=190&section=header&text=Addagada%20Hemanth&fontSize=44&fontColor=e6edf3&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Enterprise%20Developer&descSize=15&descAlignY=62" alt="Addagada Hemanth banner" width="100%" />
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:7c3aed&height=190&section=header&text=Addagada%20Hemanth&fontSize=44&fontColor=e6edf3&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Enterprise%20Developer&descSize=15&descAlignY=62" alt="Addagada Hemanth banner" width="100%" />
 
 <a href="https://github.com/Hemanth23534">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=CSE+student+%7C+Software+Engineer+in+the+making;Full-stack+web+and+Flutter+mobile+apps;SAP+ABAP+Cloud+%7C+ServiceNow+%7C+AWS+certified;Learning+by+shipping+real+projects" alt="Typing animation" />
